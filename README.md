@@ -1,4 +1,4 @@
 Hassanaar
 =========
 
-Training
+Hassanaar repository
